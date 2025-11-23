@@ -33,3 +33,11 @@
 .zoomimage:hover {
   transform: scale(1.2);
 }
+.options a {
+  display: none;       
+  padding: 5px;        
+  text-decoration: none;
+  color: black;
+}
+
+  
